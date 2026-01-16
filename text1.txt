@@ -1,4 +1,4 @@
 
 This is my first git practice.
-Im editing this file on Linux
+Im editing this file on Linux Ubuntu
 created a new branch f2..
